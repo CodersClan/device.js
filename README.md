@@ -93,6 +93,13 @@ of all of the versions of your site.
 [crbug]: http://crbug.com/123062
 [goog]: https://developers.google.com/webmasters/smartphone-sites/details
 
+## Support
+
+If you're having problems with using the project, use the support forum at CodersClan.
+
+<a href="http://codersclan.net/forum/index.php?repo_id=26"><img src="http://www.codersclan.net/graphics/getSupport_blue_big.png" width="160"></a>
+
+
 ## Version override
 
 You can manually override the detector and load a particular version of
